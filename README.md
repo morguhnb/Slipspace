@@ -43,5 +43,5 @@ account, spaces, and settings live on the server, so nothing is lost.
 
 ## Something broken?
 
-Tell Morgan directly, or say so in a space. Include your phone model and what you
+Tell Morguhn directly, or say so in a space. Include your phone model and what you
 tapped.
