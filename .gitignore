@@ -1,0 +1,15 @@
+# This repo distributes the Slipspace Android app. Only the APK and the README
+# belong here — the application source lives elsewhere and must never be pushed
+# to this repo (it carries the message encryption key, the password pepper, the
+# database, and uploaded files).
+
+# Everything except the app and its docs
+*
+
+!.gitignore
+!README.md
+!slipspace.apk
+
+# Junk
+.DS_Store
+Thumbs.db
