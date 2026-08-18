@@ -5,7 +5,9 @@ reason: so you can always grab the latest build from a fixed place.
 
 ## Download
 
-**[slipspace.apk](../../raw/main/slipspace.apk)** — 5.2 MB
+**[Download the latest APK](https://github.com/morguhnb/Slipspace/releases/latest/download/slipspace.apk)** — 5.2 MB
+
+Every build is published under [Releases](https://github.com/morguhnb/Slipspace/releases); the link above always points at the newest one.
 
 | | |
 |---|---|

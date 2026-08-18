@@ -8,7 +8,10 @@
 
 !.gitignore
 !README.md
-!slipspace.apk
+
+# The APK ships as a release asset (gh release create), never as a tracked file —
+# committing each build would grow git history by ~5 MB permanently.
+*.apk
 
 # Junk
 .DS_Store
